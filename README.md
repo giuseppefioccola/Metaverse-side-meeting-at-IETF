@@ -3,7 +3,7 @@
 Discussion about the related IETF technologies in order to understand what IETF can or cannot do on Metaverse
 
 
-A new IETF non-working group email list has been created.
+An IETF non-working group email list has been created.
 
 List address: metaverse@ietf.org
 
