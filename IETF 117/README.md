@@ -1,7 +1,6 @@
 Meeting information: https://wiki.ietf.org/en/meeting/117/sidemeetings
 
-
-I-Ds discussed:
+Links to the I-Ds:
 
 https://datatracker.ietf.org/doc/draft-fmbk-icnrg-metaverse/
 
